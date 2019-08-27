@@ -1,0 +1,1 @@
+export const URL = 'http://localhost:1337' //process.env.REACT_APP_URL
